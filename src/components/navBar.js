@@ -33,7 +33,7 @@ function handleLinkClick() {
 
 export default function Navbar() {
     return (
-        <Disclosure as="nav" className="bg-gray-800 fixed top-0 w-full z-50">
+        <Disclosure as="nav" style={{ backgroundColor: '#282e2f' }} className="fixed top-0 w-full z-50">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div className="relative flex h-20 items-center justify-between">
                     <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
@@ -49,9 +49,10 @@ export default function Navbar() {
                                         offset={-80} // Adjust the offset to match the navbar height
                                         onClick={handleLinkClick} // Disable AOS animations on click
                                         className={classNames(
-                                            'text-gray-300 hover:bg-gray-700 hover:text-white',
-                                            'cursor-pointer rounded-md px-4 py-2 text-lg font-medium'
+                                            'text-gray-300 cursor-pointer rounded-md px-4 py-2 text-lg font-medium',
+                                            'hover:bg-[#24292a] hover:text-white'
                                         )}
+
                                     >
                                         {item.name}
                                     </Link>
