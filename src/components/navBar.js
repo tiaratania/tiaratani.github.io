@@ -62,14 +62,11 @@ export default function Navbar() {
 
                     {/* Social media icons */}
                     <div className="flex items-center space-x-6">
-                        <a href="https://www.linkedin.com/in/nickpkj/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+                        <a href="https://www.linkedin.com/in/nurtiara-tania-rahim//" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                             <FontAwesomeIcon icon={faLinkedin} className="h-8 w-8" />
                         </a>
-                        <a href="https://github.com/nickphoon" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+                        <a href="https://github.com/tiaratania" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                             <FontAwesomeIcon icon={faGithub} className="h-8 w-8" />
-                        </a>
-                        <a href="https://instagram.com/nicpkj" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
-                            <FontAwesomeIcon icon={faInstagram} className="h-8 w-8" />
                         </a>
                     </div>
                 </div>
