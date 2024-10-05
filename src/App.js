@@ -40,7 +40,7 @@ function App() {
       companyName: 'Singapore Institute of Technology',
       jobTitle: 'Student Assistant for Programming Fundamentals (Python, C)',
       date: 'Sep 2024 - Present',
-      description: 'Supported Professors during tutorials for undergraduate students',
+      description: 'Supported Professors during tutorials for undergraduate students.',
       skills: [''],
     },
     {
@@ -48,7 +48,7 @@ function App() {
       companyName: 'International Business Machines Corporation (IBM)',
       jobTitle: 'Junior Full-Stack Developer / Business Analyst',
       date: 'May 2021 - July 2022',
-      description: 'Drove digital transformation and cloud migration for an Agile public sector project, leading it to a successful Go-Live. Developed MySQL scripts for data migration and assisted in building the website using AngularJS. Facilitated UAT, proposed system designs to meet user needs, and streamlined productivity by managing bug tracking and feature requests through JIRA. Professors during tutorials for undergraduate students',
+      description: 'Drove digital transformation and cloud migration for an Agile public sector project, leading it to a successful Go-Live. Developed MySQL scripts for data migration and assisted in building the website using AngularJS. Facilitated UAT, proposed system designs to meet user needs, and streamlined productivity by managing bug tracking and feature requests through JIRA.',
       skills: [''],
     },
     {
