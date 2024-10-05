@@ -94,7 +94,7 @@ function App() {
       date: 'Mar 2024',
       description: 'A web application built to show understanding and importance of building a secure software, and the techniques and tools that can be applied at each stage of the SDLC such as CI/CD Jenkins.',
       image: charitycentral,
-      techStack: ['Django', 'ReactJS', "CI/CD, 'Jenkins"],
+      techStack: ['Django', 'ReactJS', "CI/CD", "Jenkins"],
       videoUrl: ""
     },
 
